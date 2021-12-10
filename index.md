@@ -4,8 +4,6 @@
 <meta property="og:description" content="You should totally click this link.">
 <meta property="og:image" content="https://potatointhebox.github.io/TestPage/game_cat.png">
 
-## Welcome to GitHub Pages
-
-### Cat!
+## Cat!
 
 <img src="cat.gif" alt="Cat failed to load... :(">
